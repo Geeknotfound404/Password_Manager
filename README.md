@@ -1,15 +1,19 @@
 Password Storage App (Alpha)
 Overview
-Welcome to the Password Storage App! This application is designed to help you securely store and manage your passwords. Currently, this is an alpha version, meaning it's an early release with basic functionality. We have many exciting features planned for future updates.
+Welcome to the Password Storage App! This application is designed to help you securely 
+store and manage your passwords. Currently, this is an alpha version, meaning it's an early 
+release with basic functionality. We have many exciting features planned for future updates.
 
 Features
 Password Storage: Store your passwords securely.
 User-Friendly Interface: Simple and easy to use.
 Cross-Platform: Runs on Windows, macOS, and Linux.
+
 Planned Features
 Password Encryption: Enhance security by encrypting stored passwords.
 Password Generator: Generate strong, random passwords.
 Auto-Fill: Automatically fill in login forms on websites.
+
 Installation
 To install the Password Storage App, follow these steps:
 Clone the Repository:
